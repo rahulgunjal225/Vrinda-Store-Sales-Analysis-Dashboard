@@ -1,4 +1,4 @@
-# 🛍️ # 🛍️ Vrinda Store Sales Analysis Dashboard
+# 🛍️ Vrinda Store Sales Analysis Dashboard
 
 > **An Interactive Microsoft Excel Dashboard for Sales Performance Analysis and Business Insights**
 
